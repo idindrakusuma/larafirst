@@ -1,0 +1,26 @@
+.header-top{
+  background: #e74430;
+}
+.copy-section{
+  background: #e74430;
+}
+
+.navbar-default .navbar-nav > li > a:hover{
+  color: #e74430;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #e74430 !important;
+}
+
+.menu--francisco .menu__item--current .menu__link{
+	color: #e74430 !important;
+}
+
+.larafirst{
+  max-height: 5em;
+}
+
+.header{
+  box-shadow: 0 0 4px #bbb !important;
+}
