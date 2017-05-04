@@ -8,7 +8,7 @@
 					<div class="container">
 						<div class="about-grids">
 							<div class="col-md-6 about-grid1">
-								<img src="images/a.png" class="img-responsive" alt=""/>
+								<img src="{{ url('/images/laravel.png') }}" class="img-responsive" alt=""/>
 							</div>
 							<div class="col-md-6 about-grid">
 								<h4>The Firts Project Using Laravel </h4>

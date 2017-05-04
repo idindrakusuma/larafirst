@@ -32,3 +32,8 @@
 .min-margin-3{
   margin-top: -3em;
 }
+
+.shadow{
+  padding: 2px;
+  box-shadow: 0 0 4px #bbb !important;
+}

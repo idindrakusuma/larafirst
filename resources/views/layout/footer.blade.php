@@ -3,7 +3,7 @@
 	<!--copy-->
 	<div class="copy-section">
 		<div class="container wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s">
-			<p>&copy; LaraFirst 2017 Indra Kusuma. All rights reserved | Powered by <a href="http://www.indrakusuma.web.id">Laravel</a></p>
+			<p>&copy; LaraFirst 2017. Create with <i class="fa fa-heart"></i> Indra Kusuma Powered by<a href="http://www.indrakusuma.web.id">Laravel</a></p>
 		</div>
 	</div>
 
