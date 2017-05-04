@@ -27,7 +27,6 @@ HAPPY CODING!
 	<!-- Link for External CSS | Indra Kusuma -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/animate.css">
-	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/smoothbox.css">
 	<!-- CSS Custom for Speed | Indra Kusuma -->
   <link rel="stylesheet" href="css/style.css">

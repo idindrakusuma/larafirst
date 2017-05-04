@@ -24,3 +24,11 @@
 .header{
   box-shadow: 0 0 4px #bbb !important;
 }
+
+.min-margin-4{
+  margin-top: -4em;
+}
+
+.min-margin-3{
+  margin-top: -3em;
+}
