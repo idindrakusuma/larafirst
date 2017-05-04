@@ -1,6 +1,6 @@
 @extends('layout.master')
 
-@section('title','Selamat Datang Calon penghuni Surga!')
+@section('title','Welcome to LaraFirst')
 
 @section('content')
   <div class="content">
@@ -12,8 +12,8 @@
 							</div>
 							<div class="col-md-6 about-grid">
 								<h4>The Firts Project Using Laravel </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod sollicitudin nunc, eget pretium massa. Ut sed adipiscing enim, pellentesque ultrices erat. Integer placerat felis neque, et semper augue ullamcorper in. Pellentesque iaculis leo iaculis aliquet ultrices. Suspendisse potenti. Aenean ac magna faucibus, consectetur ligula vel, feugiat est. Nullam imperdiet semper neque eget euismod. Nunc commodo volutpat semper.</p>
-								<p>Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus.</p>
+								<p><b>LaraFirst</b> adalah suatu proyek pribadi yang saya kerjakan dengan tujuan untuk mendalami Framework Laravel. Web ini nantinya akan berisi konten dinamis seperti Galeri, blog maupun berita dan form kontak yang bisa digunakan untuk proses komunikasi anatara user dengan admin.</p>
+                <p>Laravel dengan popularitas dan berbagai kelebihannnya menjawab masalah itu. Dapat kita temui banyak project opensource menggunakan Laravel, misalnya Flarum, sebuah aplikasi forum yang dibangun diatas Laravel dan EmberJS.</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>

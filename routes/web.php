@@ -15,4 +15,5 @@
 Route::get('/','MainController@index');
 Route::get('/about','MainController@about');
 Route::get('/blog','MainController@blog');
-Route::get('/contact-us','MainController@contact');
+Route::get('/galeri','MainController@galeri');
+Route::get('/contact','MainController@contact');

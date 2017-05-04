@@ -31,7 +31,7 @@
 								</ul>
 
                 <ul class="nav navbar-nav menu__list pull-right">
-                  <li class="menu__item"><a href="{{ url('/tentang') }}" class="menu__link"><span class="menu__helper">About</span></a></li>
+                  <li class="menu__item"><a href="{{ url('') }}" class="menu__link"><span class="menu__helper">About</span></a></li>
 									<li class="menu__item"><a href="{{ url('/galeri') }}" class="menu__link"><span class="menu__helper">Gallery</span></a></li>
 									<li class="menu__item"><a href="{{ url('/blog') }}" class="menu__link"><span class="menu__helper">Blog</span></a></li>
 									<li class="menu__item"><a href="{{ url('/contact') }}" class="menu__link"><span class="menu__helper">Contact</span></a></li>

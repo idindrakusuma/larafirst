@@ -14,13 +14,13 @@ HAPPY CODING!
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>@yield('title') | BAI UDINUS</title>
+	<title>@yield('title') | LaraFirst</title>
 
 	<!-- Favicon || Indra Kusuma-->
 	<link rel="shortcut icon" href="images/favicon-bai.png">
 	<!-- Meta tag for SEO Optimazation | Indra Kusuma -->
-	<meta content='' name='description'/>
-	<meta content='' name='keywords'/>
+	<meta content='LaraFirst adalah suatu proyek pribadi yang saya kerjakan dengan tujuan untuk mendalami Framework Laravel.' name='description'/>
+	<meta content='laravel, larafirst' name='keywords'/>
 	<meta content='Indonesia' name='geo.placename'/>
 	<meta content="Indra Kusuma"  name='Author'/>
 	<meta content='general' name='rating'/>
