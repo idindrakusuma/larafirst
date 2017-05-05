@@ -3,7 +3,7 @@
 			<div class="header-top">
 				<div class="container">
 					<div class="logo wow fadeIn" data-wow-duration="2s">
-						<img class="larafirst" src="images/logo-larafirst.png" alt="">
+						<img class="larafirst" src="{{url('images/logo-larafirst.png')}}" alt="">
 					</div>
 				</div>
 			</div>

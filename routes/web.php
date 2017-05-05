@@ -19,3 +19,7 @@ Route::get('/galeri','MainController@galeri');
 
 Route::get('/contact','MainController@contact');
 Route::post('/contact','MainController@store');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

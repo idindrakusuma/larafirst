@@ -25,12 +25,12 @@ HAPPY CODING!
 	<meta content="Indra Kusuma"  name='Author'/>
 	<meta content='general' name='rating'/>
 	<!-- Link for External CSS | Indra Kusuma -->
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/animate.css">
-	<link rel="stylesheet" href="css/smoothbox.css">
+	<link rel="stylesheet" href="{{url('/css/bootstrap.css')}}">
+	<link rel="stylesheet" href="{{url('css/animate.css')}}">
+	<link rel="stylesheet" href="{{url('css/smoothbox.css')}}">
 	<!-- CSS Custom for Speed | Indra Kusuma -->
-  <link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="{{url('css/style.css')}}">
+	<link rel="stylesheet" href="{{url('css/custom.css')}}">
 	<!--js-->
 	<!--webfonts-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
