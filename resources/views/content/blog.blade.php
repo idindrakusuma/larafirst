@@ -1,4 +1,4 @@
-@extends('layout.master')
+@extends('layouts.partials.homeMaster')
 
 @section('title','Blog')
 

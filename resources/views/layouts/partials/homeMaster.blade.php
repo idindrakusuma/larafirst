@@ -42,13 +42,13 @@ HAPPY CODING!
 <body>
 
     <!-- header menu -->
-    @include('layout.header')
+    @include('layouts.partials.navigation')
 
     <!-- content website -->
     @yield('content')
 
     <!-- footer -->
-    @include('layout.footer')
+    @include('layouts.partials.footer')
 
 </body>
 </html>
